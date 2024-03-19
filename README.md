@@ -1,4 +1,4 @@
-# Iosevkass14 WebFont 29.0.1
+# Iosevkass14 WebFont 29.0.2
 
 ## How to use
 
